@@ -1,0 +1,29 @@
+h1{
+    background-color: bisque;
+}
+
+h2{
+    font-family: cursive;
+}
+
+.mycat{
+    width: 300px;
+}
+
+.anothercat{
+    width: 320px;
+}
+
+p{
+    color: rgb(85, 45, 8)
+}
+
+.mycolor{
+    color: rgb(8, 8, 141);
+}
+
+a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: rgb(38, 153, 9);
+}
